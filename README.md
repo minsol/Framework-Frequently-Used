@@ -8,3 +8,4 @@
 #### RSA加密 : [Objective-C-RSA](https://github.com/ideawu/Objective-C-RSA)
 #### 图标绘制 : [Charts](https://github.com/danielgindi/Charts)
 #### 动画 : [lottie-ios](https://github.com/airbnb/lottie-ios)
+#### 快速滚动相册 : [FastImageCache](https://github.com/path/FastImageCache)
