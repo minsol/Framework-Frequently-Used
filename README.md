@@ -1,2 +1,10 @@
-# Framework-Frequently-Used
-项目中使用到过的三方
+### 将实际使用过的框架汇总
+#### 自动计算行高 : [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
+#### 轻量级的本地服务器 : [GCDWebServer](https://github.com/swisspol/GCDWebServer)
+#### ssr : [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)
+#### WebSocket(应用层协议) : [SocketRocket (facebook)](https://github.com/facebook/SocketRocket)
+#### JSON处理(swift版) : [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+#### 异步Socket(TCP或UDP) : [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
+#### RSA加密 : [Objective-C-RSA](https://github.com/ideawu/Objective-C-RSA)
+#### 图标绘制 : [Charts](https://github.com/danielgindi/Charts)
+#### 动画 : [lottie-ios](https://github.com/airbnb/lottie-ios)
